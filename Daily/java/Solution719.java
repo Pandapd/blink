@@ -1,5 +1,9 @@
 import java.util.Arrays;
 
+/**
+ * 寻找第k小的数对距离
+ * hard
+ */
 class Solution719 {
     public int mySmallestDistancePair(int[] nums, int k) {
         /**
